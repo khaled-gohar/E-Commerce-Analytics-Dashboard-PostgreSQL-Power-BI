@@ -11,7 +11,7 @@ E-commerce Store analysis project using SQL and Power BI
 
 
 <h3>Business Problem</h3>
-<p>The business request for this data analyst project WERE dashboard , answer quetions and report that provide insghits. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
+<p>The business request for this data analyst project Create a dashboard solution, answer questions, and report that provides insights. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
   
   <p>
   <h4>1.answer quetions, Write SQL queries to:</h4>
