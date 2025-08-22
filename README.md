@@ -54,7 +54,9 @@ Click to open the dashboard and try it out!
 ![E-commerce Store Dashboard](https://github.com/khaled-gohar/E-commerce-Store-Analysis/assets/133038582/faa9d2c2-fc99-435b-b806-3df4d0b12ae4)
 
 
-<iframe title="web analytics_v1.1" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=6d005786-1a2d-464e-8c32-68a692306cc7&autoAuth=true&embeddedDemo=true" frameborder="0" allowFullScreen="true"></iframe>
+## 📊 Power BI Report
+[View the interactive dashboard here](https://app.powerbi.com/reportEmbed?reportId=6d005786-1a2d-464e-8c32-68a692306cc7&autoAuth=true&embeddedDemo=true)
+
 
 
 
