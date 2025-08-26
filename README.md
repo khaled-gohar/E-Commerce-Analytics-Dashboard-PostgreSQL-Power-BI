@@ -1,6 +1,10 @@
 # 🛒 E-Commerce Analytics Dashboard  
 
-🎥 **Video Walkthrough:[![Watch the video](https://img.youtube.com/vi/sVGa6yifCdM/maxresdefault.jpg)](https://youtu.be/sVGa6yifCdM)  
+🎥 **Video Walkthrough:
+<a href="https://youtu.be/sVGa6yifCdM">
+  <img src="https://img.youtube.com/vi/sVGa6yifCdM/maxresdefault.jpg" width="400">
+</a>
+  
 📄 **[Insights PDF Report](#)**  
 
 ---
