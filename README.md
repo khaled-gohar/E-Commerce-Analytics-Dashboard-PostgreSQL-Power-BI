@@ -2,9 +2,9 @@
 
 🎥 Video Walkthrough
 
-<p align="center">
+<p align="left">
   <a href="https://youtu.be/sVGa6yifCdM">
-    <img src="https://img.youtube.com/vi/sVGa6yifCdM/maxresdefault.jpg" width="400">
+    <img src="https://img.youtube.com/vi/sVGa6yifCdM/maxresdefault.jpg" width="250">
   </a>
 </p>
 📄 **[Insights PDF Report](#)**  
