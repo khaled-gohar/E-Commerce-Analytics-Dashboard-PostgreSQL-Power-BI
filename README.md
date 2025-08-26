@@ -8,6 +8,7 @@
   </a>
 </p>
 📄 **[Insights PDF Report](#)<a href="[https://youtu.be/sVGa6yifCdM](https://github.com/khaled-gohar/E-Commerce-Analytics-Dashboard-PostgreSQL-Power-BI/blob/main/Report/E-commerce%20Store%20Insights%20Report.pdf)">
+"Report"
   </a>
 
 ---
