@@ -7,9 +7,10 @@
     <img src="https://img.youtube.com/vi/sVGa6yifCdM/maxresdefault.jpg" width="250">
   </a>
 </p>
-📄 **[Insights PDF Report](#)<a href="[[https://youtu.be/sVGa6yifCdM](https://github.com/khaled-gohar/E-Commerce-Analytics-Dashboard-PostgreSQL-Power-BI/blob/main/Report/E-commerce%20Store%20Insights%20Report.pdf](https://github.com/khaled-gohar/E-Commerce-Analytics-Dashboard-PostgreSQL-Power-BI/blob/main/Report/E-commerce%20Store%20Insights%20Report.pdf))">
-<img src="Report" width="250">
-  </a>
+📄 **[Insights PDF Report](#)
+  <a href="Report/E-commerce%20Store%20Insights%20Report.pdf">
+  <img src="Report/preview.png" width="500">
+</a>
 
 ---
 
