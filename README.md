@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## 📑 Insights PDF Report
+📑 Insights PDF Report
 [📄 PDF](https://github.com/khaled-gohar/E-Commerce-Analytics-Dashboard-PostgreSQL-Power-BI/blob/main/Report/E-commerce%20Store%20Insights%20Report.pdf)
 
 
