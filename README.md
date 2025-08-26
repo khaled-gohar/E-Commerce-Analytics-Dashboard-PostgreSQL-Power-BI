@@ -1,7 +1,6 @@
 # 🛒 E-Commerce Analytics Dashboard  
 
-📊 **[Live Dashboard Demo](#)**  
-🎥 **Video Walkthrough:** Coming Soon  
+🎥 **Video Walkthrough:[![Watch the video](https://img.youtube.com/vi/sVGa6yifCdM/maxresdefault.jpg)](https://youtu.be/sVGa6yifCdM)  
 📄 **[Insights PDF Report](#)**  
 
 ---
