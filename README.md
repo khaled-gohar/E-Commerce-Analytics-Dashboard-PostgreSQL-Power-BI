@@ -178,5 +178,5 @@ To optimize for analytics, the data was remodeled into a **Star Schema** using S
 **Khaled Gohar**  
 Data Analyst | SQL | Power BI | Customer Analytics  
 
-
+🔗 [LinkedIn](https://www.linkedin.com/in/khaled-gohar/) | [GitHub](https://github.com/khaled-gohar)  
 ---
