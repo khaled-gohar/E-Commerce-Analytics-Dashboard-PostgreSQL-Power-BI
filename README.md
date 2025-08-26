@@ -7,7 +7,7 @@
     <img src="https://img.youtube.com/vi/sVGa6yifCdM/maxresdefault.jpg" width="250">
   </a>
 </p>
-📄 **[Insights PDF Report](#)[**  ](https://github.com/khaled-gohar/E-Commerce-Analytics-Dashboard-PostgreSQL-Power-BI/blob/main/Report/E-commerce%20Store%20Insights%20Report.pdf)
+📄 **[Insights PDF Report](#)[Insights PDF Report](https://github.com/khaled-gohar/E-Commerce-Analytics-Dashboard-PostgreSQL-Power-BI/blob/main/Report/E-commerce%20Store%20Insights%20Report.pdf)
 
 ---
 
