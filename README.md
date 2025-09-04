@@ -3,7 +3,7 @@
 🎥 Video Walkthrough
 
 <p align="left">
-  <a href="https://youtu.be/sVGa6yifCdM">
+  <a href="[https://youtu.be/sVGa6yifCdM](https://youtu.be/_KHW4sFzK3w)">
     <img src="https://img.youtube.com/vi/sVGa6yifCdM/maxresdefault.jpg" width="250">
   </a>
 </p>
